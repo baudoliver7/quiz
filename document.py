@@ -1,6 +1,6 @@
 """
-This module helps to define a document.
-.. since: 0.2
+This module helps to define documents for users.
+.. since: 0.1
 """
 
 # -*- coding: utf-8 -*-
